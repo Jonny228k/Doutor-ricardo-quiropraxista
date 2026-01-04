@@ -1,0 +1,54 @@
+Olá! Que ideia bacana. Para te ajudar a praticar (seja para design, cópia ou programação), vou interpretar o papel de um cliente real.
+
+Vou criar um cenário de um serviço que está em alta, mas que precisa de um toque profissional para converter visitantes em clientes.
+
+---
+
+## 📝 O Briefing do Cliente
+
+**Cliente:** Dr. Ricardo Mendonça – Fisioterapeuta Especialista em Quiropraxia e Recuperação Esportiva.
+**Nome da Clínica:** *Coluna Ativa – Fisioterapia Avançada*.
+
+### 🎯 O Objetivo
+
+"Olá! Eu sou o Ricardo. Atendo muitos atletas amadores e pessoas que trabalham em escritório e sofrem com dores crônicas. Atualmente, meu Instagram cresceu, mas perco muito tempo explicando preços e horários no WhatsApp. Preciso de uma landing page que passe **autoridade e confiança**."
+
+### 📋 Requisitos da Página
+
+O Ricardo quer que a página tenha as seguintes seções:
+
+* **Destaque (Hero):** Uma frase que mostre que ele resolve a dor rápido (ex: "Volte a treinar sem dor em até 4 sessões").
+* **A Prova Social:** Espaço para depoimentos de pacientes e logotipos de maratonas ou clubes que ele já atendeu.
+* **Serviços:** Explicação rápida sobre Quiropraxia, Liberação Miofascial e Reabilitação.
+* **Diferencial:** O fato de ele usar tecnologia de avaliação termográfica (algo moderno).
+* **Chamada para Ação (CTA):** Botão direto para agendamento via WhatsApp.
+
+### 🎨 Preferências Visuais
+
+* **Cores:** Azul marinho, branco e um toque de cinza chumbo (quer parecer clínico, mas moderno).
+* **Fotos:** Imagens dele atendendo pacientes, fotos de atletas correndo e detalhes de equipamentos.
+* **Tom de voz:** Profissional, acolhedor, mas direto ao ponto. Sem "ajuda", mas sim "solução".
+
+---
+
+## 💡 Como você pode usar isso?
+
+Se você estiver desenvolvendo o projeto, tente focar nestes pontos para impressionar o "Ricardo":
+
+1. **Velocidade de Carregamento:** Como ele atrai gente pelo Instagram, o acesso será 90% via celular (mobile-first).
+2. **Copywriting:** Use gatilhos mentais de autoridade. Em vez de "Eu faço fisioterapia", use "Método comprovado para alívio imediato da coluna".
+3. **FAQ:** Adicione uma seção de dúvidas comuns (Aceita convênio? Quanto tempo dura a sessão?) para filtrar os curiosos.
+
+**Gostaria que eu escrevesse agora os textos detalhados (o copy) para cada uma dessas seções ou prefere que eu sugira uma estrutura visual de seções?**
+
+
+-> Cores 
+
+:root {
+  --primary-color: #1B263B;    /* Azul Marinho */
+  --secondary-color: #415A77;  /* Azul Suave */
+  --text-color: #0D1B2A;       /* Cinza quase preto */
+  --bg-light: #F8F9FA;         /* Fundo Off-white */
+  --cta-whatsapp: #2ECC71;     /* Verde para conversão */
+  --white: #FFFFFF;
+}
